@@ -9,7 +9,7 @@
         <module name="helloworld" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="helloworld" target="1.8" />
     </bytecodeTargetLevel>
   </component>
